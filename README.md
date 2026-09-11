@@ -1,5 +1,10 @@
 # 📁 File Organizer
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)]()
+[![CI](https://github.com/HSJplayz/file-organizer/actions/workflows/ci.yml/badge.svg)](https://github.com/HSJplayz/file-organizer/actions)
+[![Streak Day 1](https://img.shields.io/badge/Streak-Day%201-green.svg)](https://github.com/HSJplayz/streak)
+
 > A safe, zero-dependency CLI tool that turns a messy Downloads-style folder into tidy, extension-based subfolders — with a **dry-run preview**, an **undo log**, and **auto deduplication**.
 
 ## Table of Contents
